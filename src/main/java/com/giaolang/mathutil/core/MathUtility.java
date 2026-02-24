@@ -19,7 +19,7 @@ public class MathUtility {
         if (ngoctrinh == 0)
             return 1;
 
-        result = 10;
+        result = 1;  //update source from 10 to 1 to see green 4 ever
         for (int i = 1; i <= ngoctrinh; i++)
             result = result * i;
         return result;
