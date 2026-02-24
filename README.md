@@ -1,3 +1,6 @@
+[![Math Utility Project (CI included) | © 2026 by giáo.làng](https://github.com/doit-now/math-util-se1938/actions/workflows/cicd-script.yml/badge.svg)](https://github.com/doit-now/math-util-se1938/actions/workflows/cicd-script.yml)
+
+
 # Welcome to Math Repository
 
 ## You will find in this repo the following stuff:
